@@ -18,6 +18,7 @@
 ## Links
 
 [Link to My profile README](https://www.google.com)
+[Link to things i dont understand](https://github.com/Cdahlback/Collin-Dahlback/blob/main/ThingsIDontUnderstand.md)
 
 ## Images
 
