@@ -17,7 +17,7 @@
 
 ## Links
 
-[Link to Google](https://www.google.com)
+[Link to My profile README](https://www.google.com)
 
 ## Images
 
